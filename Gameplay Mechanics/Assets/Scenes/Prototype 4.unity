@@ -715,6 +715,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a954ff807d1c2a9438fa5ecbd0c7c204, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 8760665177187002698, guid: 7ec2c0d0a9333954e9d882fa89efabba, type: 3}
 --- !u!4 &1707012116
 Transform:
   m_ObjectHideFlags: 0
@@ -724,7 +725,7 @@ Transform:
   m_GameObject: {fileID: 1707012114}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 24.002546, y: -15.500728, z: 5.389814}
+  m_LocalPosition: {x: -8.75, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
